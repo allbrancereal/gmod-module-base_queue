@@ -1,0 +1,4 @@
+C:/Users/sk8tr/Desktop/gmod-module-base-development/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/sk8tr/Desktop/gmod-module-base-development/bin/CMakeFiles/ZERO_CHECK.dir
+C:/Users/sk8tr/Desktop/gmod-module-base-development/bin/examples/queue/CMakeFiles/queue.dir
+C:/Users/sk8tr/Desktop/gmod-module-base-development/bin/examples/MetaTable/CMakeFiles/MetaTable.dir

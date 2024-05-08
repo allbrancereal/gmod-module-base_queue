@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=Videomass
+Comment=GUI for FFmpeg and yt-dlp
+Categories=AudioVideo;
+
+Icon=videomass
+Exec=videomass
+Terminal=false

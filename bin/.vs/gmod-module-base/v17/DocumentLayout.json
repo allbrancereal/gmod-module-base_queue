@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sk8tr\\Desktop\\gmod-module-base_queue\\bin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D3A66F-022A-3A9A-8B6C-E8F619D08D1D}|examples\\queue\\queue.vcxproj|C:\\Users\\sk8tr\\Desktop\\gmod-module-base-development\\examples\\queue\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19599F79-9427-3D9B-9260-CB333E2DBE59}|ALL_BUILD.vcxproj|C:\\Users\\sk8tr\\Desktop\\gmod-module-base-development\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D3A66F-022A-3A9A-8B6C-E8F619D08D1D}|examples\\queue\\queue.vcxproj|C:\\Users\\sk8tr\\Desktop\\gmod-module-base-development\\examples\\queue\\queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\sk8tr\\Desktop\\gmod-module-base-development\\examples\\queue\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "..\\..\\gmod-module-base-development\\examples\\queue\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\sk8tr\\Desktop\\gmod-module-base-development\\examples\\queue\\CMakeLists.txt",
+              "RelativeToolTip": "..\\..\\gmod-module-base-development\\examples\\queue\\CMakeLists.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-08T02:45:48.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\sk8tr\\Desktop\\gmod-module-base-development\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "..\\..\\gmod-module-base-development\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\sk8tr\\Desktop\\gmod-module-base-development\\CMakeLists.txt",
+              "RelativeToolTip": "..\\..\\gmod-module-base-development\\CMakeLists.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-08T02:44:53.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "queue.cpp",
+              "DocumentMoniker": "C:\\Users\\sk8tr\\Desktop\\gmod-module-base-development\\examples\\queue\\queue.cpp",
+              "RelativeDocumentMoniker": "..\\..\\gmod-module-base-development\\examples\\queue\\queue.cpp",
+              "ToolTip": "C:\\Users\\sk8tr\\Desktop\\gmod-module-base-development\\examples\\queue\\queue.cpp",
+              "RelativeToolTip": "..\\..\\gmod-module-base-development\\examples\\queue\\queue.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T02:36:59.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/sk8tr/Desktop/gmod-module-base-development/examples/queue/CMakeLists.txt
+  queue.cpp
+     Creating library C:/Users/sk8tr/Desktop/gmod-module-base-development/bin/examples/queue/Release/queue.lib and object C:/Users/sk8tr/Desktop/gmod-module-base-development/bin/examples/queue/Release/queue.exp
+  queue.vcxproj -> C:\Users\sk8tr\Desktop\gmod-module-base-development\bin\bin\release\gmsv_queue_win64.dll

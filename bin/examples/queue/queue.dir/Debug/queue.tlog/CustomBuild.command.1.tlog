@@ -1,0 +1,10 @@
+^C:\USERS\SK8TR\DESKTOP\GMOD-MODULE-BASE-DEVELOPMENT\EXAMPLES\QUEUE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sk8tr/Desktop/gmod-module-base-development -BC:/Users/sk8tr/Desktop/gmod-module-base-development/bin --check-stamp-file C:/Users/sk8tr/Desktop/gmod-module-base-development/bin/examples/queue/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

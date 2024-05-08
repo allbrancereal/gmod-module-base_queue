@@ -1,0 +1,3 @@
+﻿  Building Custom Rule C:/Users/sk8tr/Desktop/gmod-module-base-development/examples/queue/CMakeLists.txt
+  queue.cpp
+LINK : fatal error LNK1104: cannot open file 'python311_d.lib'

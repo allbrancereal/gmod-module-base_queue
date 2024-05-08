@@ -1,0 +1,10 @@
+^C:\USERS\SK8TR\DESKTOP\GMOD-MODULE-BASE-DEVELOPMENT\BIN\CMAKEFILES\10F4538818A38E16DE07BCDCE996F3A3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sk8tr/Desktop/gmod-module-base-development -BC:/Users/sk8tr/Desktop/gmod-module-base-development/bin --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/sk8tr/Desktop/gmod-module-base-development/bin/gmod-module-base.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

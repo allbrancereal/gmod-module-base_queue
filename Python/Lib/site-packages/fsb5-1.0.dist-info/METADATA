@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: fsb5
+Version: 1.0
+Summary: Library and to extract audio from FSB5 (FMOD Sample Bank) files
+Home-page: https://github.com/HearthSim/python-fsb5
+Download-URL: https://github.com/synap5e/python-fsb5/tarball/master
+Author: Simon Pinfold
+Author-email: simon@uint8.me
+License: MIT
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Multimedia :: Sound/Audio
+Classifier: Topic :: Multimedia :: Sound/Audio :: Conversion
+
